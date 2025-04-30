@@ -1,0 +1,8 @@
+# Ignorar arquivos de planejamento e tarefas
+PLANNING.md
+TASKS.md
+
+# Ignorar todos os scripts Python do projeto
+projeto_visao_computacional/**/*.py
+
+# Outras regras existentes (caso haja)

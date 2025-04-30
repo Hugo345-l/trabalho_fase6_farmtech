@@ -1,0 +1,4 @@
+Modelo,Tempo de Inferência (ms),Confiança Média,Taxa de Detecção (%),Acurácia (%),Facilidade de Implementação,Requisitos de Dados
+YOLO Customizado,116.47,0.8418,100.00,N/A,Média (requer treinamento específico),Médios (rótulos específicos)
+YOLO Pré-treinado,107.90,0.1454,20.00,N/A,Alta (modelo pré-treinado),Nenhum (pronto para uso)
+CNN do Zero,101.46,0.5145,100.00,90.00,Baixa (requer implementação completa),Altos (dados organizados por classe)
