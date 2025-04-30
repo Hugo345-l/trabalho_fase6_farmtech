@@ -20,6 +20,8 @@ Este projeto aplica técnicas de visão computacional para detecção automátic
 > 📓 **Notebook principal do projeto:**  
 > [projeto_visao_computacional/notebooks/HugoMariano_rm560688_pbl_fase6.ipynb](projeto_visao_computacional/notebooks/HugoMariano_rm560688_pbl_fase6.ipynb)
 
+> vídeo: [demonstração do entregável](https://youtu.be/0KHCgs64ehQ)
+
 ---
 
 ## 📁 Estrutura do Repositório
